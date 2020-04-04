@@ -15,6 +15,8 @@
     "react-dom": "^16.13.0",
     "react-popper": "^1.3.7",
     "react-redux": "^7.2.0",
+    "react-redux-form": "^1.16.14",
+    "react-redux-modal-flex": "^2.0.0",
     "react-router-dom": "4.2.2",
     "react-scripts": "3.4.0",
     "reactstrap": "5.0.0",

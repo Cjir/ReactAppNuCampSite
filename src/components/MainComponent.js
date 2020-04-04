@@ -6,7 +6,6 @@ import Contact from './ContactComponent';
 import About from './AboutComponent';
 import Directory from './DirectoryComponent';
 import CampsiteInfo from './CampsiteInfoComponent';
-import { Switch, Route, Redirect } from 'react-router-dom';
 import { Switch, Route, Redirect, withRouter } from 'react-router-dom'
 import { connect } from 'react-redux';
 
